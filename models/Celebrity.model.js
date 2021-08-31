@@ -13,3 +13,4 @@ const celebritySchema = new Schema(
 )
 
 module.exports = model("Celebrity", celebritySchema);
+
